@@ -10,8 +10,6 @@ N/A
 
 ## Usage
 
-## Usage
-
 The Prework Study Guide is designed to help organize and review key topics from coding bootcamp, including HTML, CSS, JavaScript, and Git. Each section contains brief notes on these topics, offering a quick reference for important concepts. By opening the DevTools console in the browser, you can see the JavaScript in action. It will log the topics we've covered in prework and randomly select one for us to study first. This interactive feature helps prioritize learning by guiding us to focus on a specific topic.
 
 ![alt text](assets/images/screenshot.png)
